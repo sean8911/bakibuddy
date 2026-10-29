@@ -1,0 +1,555 @@
+%PDF-1.3
+%“Œ‹ž ReportLab Generated PDF document (opensource)
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Contents 9 0 R /MediaBox [ 0 0 842 595 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/Contents 10 0 R /MediaBox [ 0 0 842 595 ] /Parent 8 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+>>
+endobj
+7 0 obj
+<<
+/Author (anonymous) /CreationDate (D:20261027135510+08'00') /Creator (anonymous) /Keywords () /ModDate (D:20261027135510+08'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (unspecified) /Title (untitled) /Trapped /False
+>>
+endobj
+8 0 obj
+<<
+/Count 2 /Kids [ 4 0 R 5 0 R ] /Type /Pages
+>>
+endobj
+9 0 obj
+<<
+/Length 6528
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 555 Tm (TNG WALLET TRANSACTION HISTORY) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 520 Tm (Wallet ID) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 520 Tm (9999000011112222) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 495 Tm (Transaction Period) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 495 Tm (1 October 2026 - 27 October 2026) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 455 Tm (TNG WALLET TRANSACTION) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 435 Tm (Date) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 80 435 Tm (Status) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 435 Tm (Transaction Type) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 435 Tm (Reference) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 295 435 Tm (Description) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 460 435 Tm (Details) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 657.55 435 Tm (Amount \(RM\)) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 750.31 435 Tm (Wallet Balance) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 405 Tm (01/10/2026) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 80 405 Tm (Success) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 405 Tm (DuitNow QR TNGD) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 405 Tm (202610010000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 393 Tm (000000000000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 381 Tm (000000000001) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 295 405 Tm (Campus Cafe) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 460 405 Tm (Fictional fixture only) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 657.55 405 Tm (RM12.30) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 750.31 405 Tm (RM87.70) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 363 Tm (01/10/2026) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 80 363 Tm (Success) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 363 Tm (Receive from Wallet) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 363 Tm (202610010000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 351 Tm (000000000000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 339 Tm (000000000002) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 295 363 Tm (Allowance from family) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 460 363 Tm (Fictional fixture only) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 657.55 363 Tm (RM50.00) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 750.31 363 Tm (RM137.70) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 321 Tm (01/10/2026) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 80 321 Tm (Success) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 321 Tm (Reload) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 321 Tm (202610010000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 309 Tm (000000000000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 297 Tm (000000000003) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 295 321 Tm (Bank reload) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 460 321 Tm (Fictional fixture only) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 657.55 321 Tm (RM20.00) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 750.31 321 Tm (RM157.70) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 279 Tm (01/10/2026) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 80 279 Tm (Success) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 279 Tm (Transfer to Wallet) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 279 Tm (202610010000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 267 Tm (000000000000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 255 Tm (000000000004) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 295 279 Tm (Shared meal) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 460 279 Tm (Fictional fixture only) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 657.55 279 Tm (RM7.50) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 750.31 279 Tm (RM150.20) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 237 Tm (01/10/2026) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 80 237 Tm (Success) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 237 Tm (eWallet Cash Out) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 237 Tm (202610010000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 225 Tm (000000000000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 213 Tm (000000000005) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 295 237 Tm (GO+ move) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 460 237 Tm (Fictional fixture only) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 657.55 237 Tm (RM10.00) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 750.31 237 Tm (RM140.20) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 195 Tm (01/10/2026) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 80 195 Tm (Success) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 195 Tm (Payment) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 195 Tm (202610010000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 183 Tm (000000000000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 171 Tm (000000000006) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 295 195 Tm (Campus Books) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 460 195 Tm (Fictional fixture only) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 657.55 195 Tm (RM6.00) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 750.31 195 Tm (RM134.20) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 153 Tm (01/10/2026) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 80 153 Tm (Success) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 153 Tm (DUITNOW_RECEI) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 141 Tm (VEFROM) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 153 Tm (202610010000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 141 Tm (000000000000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 129 Tm (000000000007) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 295 153 Tm (Returned payment) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 460 153 Tm (Fictional fixture only) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 657.55 153 Tm (RM25.00) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 750.31 153 Tm (RM159.20) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 111 Tm (01/10/2026) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 80 111 Tm (Failed) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 111 Tm (DuitNow QR) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 111 Tm (202610010000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 99 Tm (000000000000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 87 Tm (000000000008) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 295 111 Tm (Failed payment) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 460 111 Tm (Fictional fixture only) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 657.55 111 Tm (RM9.99) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 750.31 111 Tm (RM159.20) Tj T* ET
+ 
+endstream
+endobj
+10 0 obj
+<<
+/Length 9107
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 555 Tm (01/10/2026) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 80 555 Tm (Success) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 555 Tm (DuitNow QR) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 555 Tm (202610010000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 543 Tm (000000000000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 531 Tm (000000000009) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 295 555 Tm (Campus Market 9) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 460 555 Tm (Fictional fixture only) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 657.55 555 Tm (RM3.00) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 750.31 555 Tm (RM156.20) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 520 Tm (01/10/2026) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 80 520 Tm (Success) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 520 Tm (DuitNow QR) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 520 Tm (202610010000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 508 Tm (000000000000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 496 Tm (000000000010) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 295 520 Tm (Campus Market 10) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 460 520 Tm (Fictional fixture only) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 657.55 520 Tm (RM3.00) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 750.31 520 Tm (RM153.20) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 485 Tm (01/10/2026) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 80 485 Tm (Success) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 485 Tm (DuitNow QR) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 485 Tm (202610010000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 473 Tm (000000000000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 461 Tm (000000000011) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 295 485 Tm (Campus Market 11) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 460 485 Tm (Fictional fixture only) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 657.55 485 Tm (RM3.00) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 750.31 485 Tm (RM150.20) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 450 Tm (01/10/2026) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 80 450 Tm (Success) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 450 Tm (DuitNow QR) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 450 Tm (202610010000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 438 Tm (000000000000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 426 Tm (000000000012) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 295 450 Tm (Campus Market 12) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 460 450 Tm (Fictional fixture only) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 657.55 450 Tm (RM3.00) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 750.31 450 Tm (RM147.20) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 415 Tm (01/10/2026) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 80 415 Tm (Success) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 415 Tm (DuitNow QR) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 415 Tm (202610010000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 403 Tm (000000000000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 391 Tm (000000000013) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 295 415 Tm (Campus Market 13) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 460 415 Tm (Fictional fixture only) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 657.55 415 Tm (RM3.00) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 750.31 415 Tm (RM144.20) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 380 Tm (01/10/2026) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 80 380 Tm (Success) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 380 Tm (DuitNow QR) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 380 Tm (202610010000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 368 Tm (000000000000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 356 Tm (000000000014) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 295 380 Tm (Campus Market 14) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 460 380 Tm (Fictional fixture only) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 657.55 380 Tm (RM3.00) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 750.31 380 Tm (RM141.20) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 345 Tm (01/10/2026) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 80 345 Tm (Success) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 345 Tm (DuitNow QR) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 345 Tm (202610010000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 333 Tm (000000000000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 321 Tm (000000000015) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 295 345 Tm (Campus Market 15) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 460 345 Tm (Fictional fixture only) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 657.55 345 Tm (RM3.00) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 750.31 345 Tm (RM138.20) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 310 Tm (01/10/2026) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 80 310 Tm (Success) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 310 Tm (DuitNow QR) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 310 Tm (202610010000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 298 Tm (000000000000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 286 Tm (000000000016) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 295 310 Tm (Campus Market 16) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 460 310 Tm (Fictional fixture only) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 657.55 310 Tm (RM3.00) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 750.31 310 Tm (RM135.20) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 275 Tm (01/10/2026) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 80 275 Tm (Success) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 275 Tm (DuitNow QR) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 275 Tm (202610010000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 263 Tm (000000000000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 251 Tm (000000000017) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 295 275 Tm (Campus Market 17) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 460 275 Tm (Fictional fixture only) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 657.55 275 Tm (RM3.00) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 750.31 275 Tm (RM132.20) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 240 Tm (01/10/2026) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 80 240 Tm (Success) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 240 Tm (DuitNow QR) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 240 Tm (202610010000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 228 Tm (000000000000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 216 Tm (000000000018) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 295 240 Tm (Campus Market 18) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 460 240 Tm (Fictional fixture only) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 657.55 240 Tm (RM3.00) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 750.31 240 Tm (RM129.20) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 205 Tm (01/10/2026) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 80 205 Tm (Success) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 205 Tm (DuitNow QR) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 205 Tm (202610010000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 193 Tm (000000000000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 181 Tm (000000000019) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 295 205 Tm (Campus Market 19) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 460 205 Tm (Fictional fixture only) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 657.55 205 Tm (RM3.00) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 750.31 205 Tm (RM126.20) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 170 Tm (01/10/2026) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 80 170 Tm (Success) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 170 Tm (DuitNow QR) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 170 Tm (202610010000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 158 Tm (000000000000) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 146 Tm (000000000020) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 295 170 Tm (Campus Market 20) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 460 170 Tm (Fictional fixture only) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 657.55 170 Tm (RM3.00) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 750.31 170 Tm (RM123.20) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 110 Tm (GO+ TRANSACTION) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 90 Tm (Date) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 80 90 Tm (Status) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 90 Tm (Transaction Type) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 230 90 Tm (Reference) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 295 90 Tm (Description) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 460 90 Tm (Details) Tj T* ET
+BT /F2 8 Tf 9.6 TL ET
+BT 1 0 0 1 657.55 90 Tm (Amount \(RM\)) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 70 Tm (01/10/2026) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 70 Tm (GO+ Cash In) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 657.55 70 Tm (RM10.00) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 20 50 Tm (02/10/2026) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 140 50 Tm (GO+ Daily Earnings) Tj T* ET
+BT /F1 8 Tf 9.6 TL ET
+BT 1 0 0 1 657.55 50 Tm (RM0.08) Tj T* ET
+ 
+endstream
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000061 00000 n 
+0000000102 00000 n 
+0000000209 00000 n 
+0000000321 00000 n 
+0000000514 00000 n 
+0000000708 00000 n 
+0000000776 00000 n 
+0000001037 00000 n 
+0000001102 00000 n 
+0000007681 00000 n 
+trailer
+<<
+/ID 
+[<544d2a5592ca4fe50243aeba7cbe797f><544d2a5592ca4fe50243aeba7cbe797f>]
+% ReportLab generated PDF document -- digest (opensource)
+
+/Info 7 0 R
+/Root 6 0 R
+/Size 11
+>>
+startxref
+16840
+%%EOF

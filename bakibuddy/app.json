@@ -1,0 +1,56 @@
+{
+  "expo": {
+    "scheme": "bakibuddy",
+    "slug": "bakibuddy",
+    "experiments": {
+      "typedRoutes": true
+    },
+    "name": "BakiBuddy",
+    "web": {
+      "name": "BakiBuddy",
+      "favicon": "./assets/web-favicon.png",
+      "output": "static",
+      "description": "Know your balance. Own your future. Your local MYR transaction tracker."
+    },
+    "version": "0.8.1",
+    "backgroundColor": "#F7F8F4",
+    "android": {
+      "predictiveBackGestureEnabled": true
+    },
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false
+    },
+    "orientation": "default",
+    "plugins": [
+      [
+        "expo-router",
+        {
+          "asyncRoutes": {
+            "web": false
+          }
+        }
+      ],
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#F7F8F4"
+        }
+      ],
+      "expo-sqlite",
+      "@react-native-community/datetimepicker",
+      "expo-font",
+      "expo-status-bar",
+      "expo-asset",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Choose a receipt or payment screenshot to read on your device.",
+          "cameraPermission": false,
+          "microphonePermission": false
+        }
+      ],
+      "expo-sharing"
+    ]
+  }
+}

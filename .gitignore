@@ -1,0 +1,38 @@
+# Keep durable design records, exclude local sessions and raw evidence.
+.impeccable/*
+!.impeccable/design.json
+!.impeccable/surfaces/
+node_modules/
+*.log
+bakibuddy/test-results/
+.expo/
+dist/
+web-build/
+
+# Credentials, signing material and local financial data.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p8
+*.p12
+*.pfx
+*.jks
+*.mobileprovision
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+*.csv
+*.pdf
+!bakibuddy/tests/fixtures/tng-fictional.pdf
+!bakibuddy/tests/fixtures/tng-fictional-locked.pdf
+
+# Private original-document intake history, retained locally.
+PHASE_5_RESEARCH.md
+docs/.preview/
+.DS_Store
+Thumbs.db

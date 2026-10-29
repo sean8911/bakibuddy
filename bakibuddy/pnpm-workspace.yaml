@@ -1,0 +1,47 @@
+allowBuilds:
+  esbuild: false
+  tesseract.js: false
+  unrs-resolver: false
+overrides:
+  node-forge@<1.4.1: 1.4.1
+minimumReleaseAgeExclude:
+  - '@expo/cli@58.1.16 || 58.1.17'
+  - '@expo/fingerprint@0.21.7'
+  - '@expo/metro-config@58.0.18 || 58.0.19'
+  - '@expo/router-server@58.0.18 || 58.0.19'
+  - babel-preset-expo@58.0.21 || 58.0.22
+  - expo-file-system@58.0.12 || 58.0.13
+  - expo-modules-cli@0.3.3 || 0.4.0
+  - expo-modules-core@58.0.27 || 58.0.28
+  - expo-modules-jsi@58.0.20 || 58.0.21
+  - expo@58.0.20 || 58.0.21
+  - expo-router@58.0.27 || 58.0.28
+  - '@expo/config-plugins@58.0.11'
+  - '@expo/config@58.0.9'
+  - '@expo/image-utils@0.12.6'
+  - '@expo/inline-modules@0.2.8'
+  - '@expo/local-build-cache-provider@58.0.9'
+  - '@expo/modules-macros-linux-arm64@0.27.1'
+  - '@expo/modules-macros-linux-x64@0.27.1'
+  - '@expo/modules-macros-win32-arm64@0.27.1'
+  - '@expo/modules-macros-win32-x64@0.27.1'
+  - '@expo/prebuild-config@58.0.17'
+  - '@expo/require-utils@58.0.5'
+  - '@noxcturnal/noxcturnal-darwin-arm64@0.1.11'
+  - '@noxcturnal/noxcturnal-darwin-x64@0.1.11'
+  - '@noxcturnal/noxcturnal-linux-arm64-gnu@0.1.11'
+  - '@noxcturnal/noxcturnal-linux-arm64-musl@0.1.11'
+  - '@noxcturnal/noxcturnal-linux-x64-gnu@0.1.11'
+  - '@noxcturnal/noxcturnal-linux-x64-musl@0.1.11'
+  - '@noxcturnal/noxcturnal-win32-arm64-msvc@0.1.11'
+  - '@noxcturnal/noxcturnal-win32-x64-msvc@0.1.11'
+  - expo-asset@58.0.19
+  - expo-constants@58.0.14
+  - expo-font@58.0.11
+  - expo-modules-autolinking@58.0.16
+  - expo-modules-macros@0.27.1
+  - noxcturnal@0.1.11
+  - expo-linking@58.0.15
+  - expo-sharing@58.0.21
+  - expo-splash-screen@58.0.12
+  - expo-system-ui@58.0.7
