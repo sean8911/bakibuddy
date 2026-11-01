@@ -55,7 +55,7 @@ Setup creates the ignored environment file and a random `AI_SERVER_TOKEN`. Add y
 
 For phone development on trusted private Wi-Fi, explicitly set `AI_HOST=0.0.0.0` and `AI_ALLOW_LAN_HTTP=true`. Configure `http://<your-computer-ip>:8787` and the separate server token in the app. `localhost` on the phone means the phone. This development HTTP path is unencrypted; do not expose the companion publicly.
 
-In **Set up cloud**, configure a session, ask locally/load categories, then review exact fields before **Send this request**. Connection setup sends nothing. Clear/leave/background clears temporary credentials and unapplied suggestions. Cancellation after sending cannot reverse provider processing. Errors retain local answers. Provider terms/retention are linked in the consent flow; unlimited free use and zero retention are not promised. See [ASSISTANT_RULES.md](../ASSISTANT_RULES.md).
+In **Set up cloud**, configure a session, ask locally/load categories, then review exact fields before **Send this request**. Connection setup sends nothing. Clear/leave/background clears temporary credentials and unapplied suggestions. Cancellation after sending cannot reverse provider processing. Errors retain local answers. Provider terms/retention are linked in the consent flow; unlimited free use and zero retention are not promised. See [privacy and data handling](PRIVACY.md).
 
 ## Imports, OCR and data controls
 
@@ -64,7 +64,7 @@ In **Set up cloud**, configure a session, ask locally/load categories, then revi
 - **Exports:** reviewed JSON/CSV are plaintext reference copies; restore is unavailable. Verify the chosen destination/file yourself.
 - **Deletion:** scope review, acknowledgement and typed `DELETE` precede an atomic content-revision check. Cancel changes nothing. External copies/backups/source files are outside deletion; logical deletion is not secure erasure. Use disposable ledgers for destructive tests.
 
-Schema 4 and integrity/foreign-key checks preserve records without silent resets. Rules: [imports](../IMPORT_RULES.md), [scanning](../SCANNING_RULES.md), [data controls](../DATA_CONTROLS_RULES.md), [security](../SECURITY_REVIEW.md).
+Schema 4 and integrity/foreign-key checks preserve records without silent resets. See the [architecture guide](ARCHITECTURE.md), [privacy notice](PRIVACY.md), and [security considerations](SECURITY.md).
 
 ## Verification
 
@@ -92,10 +92,10 @@ pnpm test:assistant:web
 pnpm test:privacy:web
 ```
 
-OCR checks include the actual bundled reader and separate lifecycle tests. Desktop results do not establish device memory/frame rate. SECURITY_REVIEW.md records the remaining tooling advisories; no clean audit is claimed.
+OCR checks include the actual bundled reader and separate lifecycle tests. Desktop results do not establish device memory/frame rate. The [security documentation](SECURITY.md#dependency-status) records the last dependency audit and remaining tooling advisories.
 
 ## Native acceptance
 
 Check persistence/exact balances, transfer/refund semantics, small/large screens, landscape, safe areas, native Back/edge-swipe, keyboards/date pickers, system text scaling, VoiceOver/TalkBack and reduced motion. Verify import/OCR review/cancel/duplicates and a small deliberate save; test exports and deletion only on disposable records. Test welcome Skip/Replay/guest; email sign-in is unavailable.
 
-Separate browser evidence, bundle compilation, user-reported smoke checks and independently observed device behavior. Store builds, signing, launcher/splash assets and metadata belong to separately scoped distribution work in [ROADMAP.md](../ROADMAP.md).
+Separate browser evidence, bundle compilation, user-reported smoke checks and independently observed device behavior. Standalone builds, signing, launcher/splash assets, and store metadata still require release preparation.

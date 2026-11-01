@@ -2,7 +2,7 @@
 
 Start with an issue describing the problem, expected behavior and a small fictional reproduction. Discuss larger changes first; authentication, sync, distribution and financial-rule changes need deliberate scope decisions.
 
-Follow [the README](README.md#quick-start) and [development guide](docs/DEVELOPMENT.md). Run app commands from `bakibuddy/`:
+Follow [the README](README.md#getting-started) and [development guide](docs/DEVELOPMENT.md). Run app commands from `bakibuddy/`:
 
 ```sh
 pnpm install --frozen-lockfile

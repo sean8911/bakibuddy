@@ -1,7 +1,9 @@
-# Keep durable design records, exclude local sessions and raw evidence.
-.impeccable/*
-!.impeccable/design.json
-!.impeccable/surfaces/
+# Local development records stay outside the published repository.
+/.impeccable/
+/*.md
+!/README.md
+!/CONTRIBUTING.md
+AGENTS.md
 node_modules/
 *.log
 bakibuddy/test-results/
@@ -31,8 +33,6 @@ web-build/
 !bakibuddy/tests/fixtures/tng-fictional.pdf
 !bakibuddy/tests/fixtures/tng-fictional-locked.pdf
 
-# Private original-document intake history, retained locally.
-PHASE_5_RESEARCH.md
 docs/.preview/
 .DS_Store
 Thumbs.db
